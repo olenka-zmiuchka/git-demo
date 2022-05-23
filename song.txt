@@ -4,9 +4,7 @@ Not today,
 not today...
 
 shall we begin...
-<<<<<<< HEAD
 
-lets try the revert
-and commit
-=======
->>>>>>> parent of 9d9b2b1 (song.txt)
+
+
+
